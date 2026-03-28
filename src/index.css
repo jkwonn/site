@@ -532,6 +532,11 @@ a:hover {
   margin-bottom: 8px;
 }
 
+.blog-content a {
+  color: #3366cc;
+  text-decoration: underline;
+}
+
 .page-container .news {
   flex: 1;
   max-width: 300px;
